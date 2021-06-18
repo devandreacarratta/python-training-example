@@ -10,3 +10,4 @@ I'm studying Python!
 |--|--|--|
 |001|001-hello-world.py|Simple Hello World|
 |002|002-hello-world-name.py|Hello word - Get 'input' from user|
+|003|003-array-loop-for.py|LOOP -for array items|
