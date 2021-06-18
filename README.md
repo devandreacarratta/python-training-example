@@ -7,3 +7,4 @@ I'm studying Python!
 |ID|FileName|Description|
 |--|--|--|
 |001|001-hello-world.py|Simple Hello World|
+|002|002-hello-world-name.py|Hello word - Get 'input' from user|
