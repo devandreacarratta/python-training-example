@@ -19,6 +19,7 @@ def main():
         index+=1;
         print(index," - ",x)
     
+    exit()
 
 if __name__ == "__main__":
     main()
