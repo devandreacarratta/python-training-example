@@ -2,6 +2,8 @@
 
 I'm studying Python!
 
+- Python Interpreter: **3.9**
+
 ## Source detail
 
 |ID|FileName|Description|
