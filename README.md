@@ -14,6 +14,7 @@ I'm learning Python!
 |004|004-array-loop-while|LOOP - WHILE array items|
 |005|005-array-add-element|Array - Add single item|
 |006|006-array-add-elements|Array - Extend with another array|
+|007|007-array-sort-elements|Array - Sort items (ASC/ DESC)|
 
 ## Follow Me
 - [AndreaCarratta@Linkedin](http://bit.ly/linkedin-acarratta)
