@@ -25,6 +25,7 @@ I'm learning Python!
 |007|007-array-sort-elements|Array - Sort items (ASC/ DESC)|
 |008|008-array-remove-element-position|Array - Remove item by position|
 |009|009-array-remove-element-value|Array - Remove item by value|
+|010|010-array-check-element-exists|Array - Check if value exists|
 
 ## Follow Me
 - [AndreaCarratta@Linkedin](http://bit.ly/linkedin-acarratta)
