@@ -4,6 +4,14 @@ I'm learning Python!
 
 - Python Interpreter: **3.9**
 
+## Python books 
+
+[Python Book](https://amzn.to/3zDtWrO)
+[EN Python Book](https://amzn.to/3gOEsUF)
+[IT Python Book](https://amzn.to/3xLQSDF)
+[Python. Guida alla sintassi, alle funzionalità avanzate e all'analisi dei dati](https://amzn.to/3gDNW68)
+[The Quick Python Book](https://amzn.to/3wFIi9d)
+
 ## Source detail
 
 |ID|FileName|Description|
