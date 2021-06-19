@@ -4,7 +4,7 @@ I'm learning Python!
 
 - Python Interpreter: **3.9**
 
-## Python books 
+## Books @ Amazon 
 
 - [Python Book](https://amzn.to/3zDtWrO)
 - [EN Python Book](https://amzn.to/3gOEsUF)
