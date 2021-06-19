@@ -1,4 +1,4 @@
-# python 006-array-add-elements.py
+# python 007-array-sort-elements.py
 
 numbers =[
     6,
@@ -11,7 +11,7 @@ numbers =[
 
 def main():
     print(numbers)
-    
+
     # Sort ASC
     numbers.sort()
     print(numbers)

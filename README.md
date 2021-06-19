@@ -23,6 +23,7 @@ I'm learning Python!
 |005|005-array-add-element|Array - Add single item|
 |006|006-array-add-elements|Array - Extend with another array|
 |007|007-array-sort-elements|Array - Sort items (ASC/ DESC)|
+|008|008-array-remove-element-position|Array - Remove item by position|
 
 ## Follow Me
 - [AndreaCarratta@Linkedin](http://bit.ly/linkedin-acarratta)
