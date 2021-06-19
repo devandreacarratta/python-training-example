@@ -12,6 +12,7 @@ I'm learning Python!
 |002|002-hello-world-name|Hello word - Get 'input' from user|
 |003|003-array-loop-for|LOOP - FOR array items|
 |004|004-array-loop-while|LOOP - WHILE array items|
+|005|005-array-add-element|Array - Add single item|
 
 ## Follow Me
 - [AndreaCarratta@Linkedin](http://bit.ly/linkedin-acarratta)
