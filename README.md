@@ -24,6 +24,7 @@ I'm learning Python!
 |006|006-array-add-elements|Array - Extend with another array|
 |007|007-array-sort-elements|Array - Sort items (ASC/ DESC)|
 |008|008-array-remove-element-position|Array - Remove item by position|
+|009|009-array-remove-element-value|Array - Remove item by value|
 
 ## Follow Me
 - [AndreaCarratta@Linkedin](http://bit.ly/linkedin-acarratta)
