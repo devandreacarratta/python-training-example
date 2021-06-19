@@ -26,6 +26,7 @@ I'm learning Python!
 |[008](https://github.com/devandreacarratta/python-training-example/blob/master/source/008-array-remove-element-position.py)|008-array-remove-element-position|Array - Remove item by position|
 |[009](https://github.com/devandreacarratta/python-training-example/blob/master/source/009-array-remove-element-value.py)|009-array-remove-element-value|Array - Remove item by value|
 |[010](https://github.com/devandreacarratta/python-training-example/blob/master/source/010-array-check-element-exists.py)|010-array-check-element-exists|Array - Check if value exists|
+|[011](https://github.com/devandreacarratta/python-training-example/blob/master/source/011-http-request-get.py)|011-http-request-get|Get an URL from web|
 
 ## Follow Me
 - [AndreaCarratta@Linkedin](http://bit.ly/linkedin-acarratta)
