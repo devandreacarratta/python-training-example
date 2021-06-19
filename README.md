@@ -13,6 +13,7 @@ I'm learning Python!
 |003|003-array-loop-for|LOOP - FOR array items|
 |004|004-array-loop-while|LOOP - WHILE array items|
 |005|005-array-add-element|Array - Add single item|
+|006|006-array-add-elements|Array - Extend with another array|
 
 ## Follow Me
 - [AndreaCarratta@Linkedin](http://bit.ly/linkedin-acarratta)
