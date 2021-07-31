@@ -33,6 +33,7 @@ I'm learning Python!
 
 ## Follow Me
 - [AndreaCarratta@Linkedin](http://bit.ly/linkedin-acarratta)
+- [AndreaCarratta@Patreon](https://www.patreon.com/devandreacarratta)
 - [AndreaCarratta@YouTube](https://bit.ly/devandreacarratta-youtube)
 - [DevAndreaCarratta@Linkedin](http://bit.ly/linkedin-devandreacarratta)
 - [DevAndreaCarratta@Facebook](http://bit.ly/devandreacarratta-facebook)
