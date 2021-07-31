@@ -28,6 +28,8 @@ I'm learning Python!
 |[010](https://github.com/devandreacarratta/python-training-example/blob/master/source/010-array-check-element-exists.py)|010-array-check-element-exists|Array - Check if value exists|
 |[011](https://github.com/devandreacarratta/python-training-example/blob/master/source/011-http-request-get.py)|011-http-request-get|Simulate a HTTP Request GET|
 |[012](https://github.com/devandreacarratta/python-training-example/blob/master/source/012-http-request-get-params.py)|012-http-request-get-params|Simulate a HTTP Request GET with query string|
+|[012](https://github.com/devandreacarratta/python-training-example/blob/master/source/013-http-request-get-json-load.py)|013-http-request-get-json-load|How to read (and show) values from a remote JSON|
+
 
 ## Follow Me
 - [AndreaCarratta@Linkedin](http://bit.ly/linkedin-acarratta)
