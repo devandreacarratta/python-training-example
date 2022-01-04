@@ -1,10 +1,27 @@
 import random
 
+def passwordLen():
+
+    message="Password Lenght: "
+
+    while True:
+        try:
+            result = int(
+                input(message)
+            )       
+        except ValueError:
+            print("Input is not valid! Only number")
+            continue
+        else:
+            return result 
+            break 
+
 def main():
     
+    passwordLenght = passwordLen()
+
     chars = []
 
-   
     for i in range(26):   
         # UpperCase  
         chars.append( chr(65 + i) )
@@ -35,7 +52,7 @@ def main():
 
     randomPassword  = "".join(chars)
 
-    randomPassword = randomPassword[0:12]
+    randomPassword = randomPassword[0:passwordLenght]
    
     print(randomPassword)
 
